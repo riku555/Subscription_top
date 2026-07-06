@@ -1,6 +1,6 @@
-# SubScope — 公式サイト / Official site
+# SubscLens — 公式サイト / Official site
 
-SubScope（サブスク管理アプリ）のランディング・プライバシーポリシー・サポートページ。
+SubscLens（サブスク管理アプリ）のランディング・プライバシーポリシー・サポートページ。
 GitHub Pages でホストしています。
 
 - `index.html` — 紹介ページ
